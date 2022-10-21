@@ -5,14 +5,15 @@ import Classes.constructorsAndSetters.package2.*;;
 public class main {
     public static void main(String[] args) throws Exception {
 
-        var lenovo = new computer("lenovo", "thisisaphonenumber");
+        // var lenovo = new computer("lenovo", "thisisaphonenumber");
 
-        var mustang = new car("Mustang");
+        // var mustang = new car("Mustang");
 
-        mustang.set_carName("JAVIER");
+        // mustang.set_carName("JAVIER");
 
-        System.out.println(lenovo.get_phone());
+        // System.out.println(lenovo.get_phone());
 
-        System.out.println(mustang.get_carName());
+        // System.out.println(mustang.get_carName());
+
     }
 }
