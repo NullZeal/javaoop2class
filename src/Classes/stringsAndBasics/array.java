@@ -1,11 +1,5 @@
 package Classes.stringsAndBasics;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.StringTokenizer;
-
-import org.w3c.dom.ranges.Range;
-
 public class array {
 
     public static String reverseString(String originalString) {

@@ -1,7 +1,5 @@
 package Classes.constructorsAndSetters.package1;
 
-import Classes.constructorsAndSetters.package2.*;;
-
 public class main {
     public static void main(String[] args) throws Exception {
 
